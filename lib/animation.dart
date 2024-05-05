@@ -6,6 +6,7 @@ enum ButtonState {
  done,
 }
 
+// ignore: must_be_immutable
 class AnimationShopScreen extends StatefulWidget {
   int itemCount;
   AnimationShopScreen({Key? key,
