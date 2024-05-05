@@ -1,7 +1,3 @@
-
-
-https://github.com/leitoon/animation/assets/43183222/9450d8cb-f734-4577-8b28-a081fda7f8e4
-
 # Animation Shop Screen
 This Flutter project demonstrates an animated shopping screen with a customizable item count feature.
 
@@ -18,3 +14,7 @@ Open the project in your preferred Flutter development environment.
 Navigate to the lib folder.
 Open animation_shop_screen.dart to view and modify the code.
 Run the project on your Flutter emulator or device.
+
+## Video
+https://github.com/leitoon/animation/assets/43183222/9450d8cb-f734-4577-8b28-a081fda7f8e4
+
